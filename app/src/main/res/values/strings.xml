@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">App Calculate Bill</string>
+    <string name = "source_code"><a href = "https://github.com/NurulNatrah/Electric-Bill-Calculator">SOURCE CODE</a></string>
 </resources>
