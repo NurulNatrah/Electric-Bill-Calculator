@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="textViewFinalCost" type="id" />
+    <item name="textViewTotalCharges" type="id" />
+    <item name="editTextRebate" type="id" />
+    <item name="editTextUnit" type="id" />
+    <item name="btnReset" type="id" />
+    <item name="btnBill" type="id" />
+</resources>
